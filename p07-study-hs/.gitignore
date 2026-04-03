@@ -1,0 +1,26 @@
+# [의존성 패키지] - 가장 용량이 크므로 반드시 제외
+node_modules/
+**/node_modules/
+
+# [NestJS 빌드 결과물]
+dist/
+**/dist/
+
+# [Next.js 빌드 결과물]
+.next/
+**/.next/
+out/
+
+# [환경 변수 및 설정] - 보안을 위해 제외
+.env
+.env.local
+.env.*.local
+
+# [기타 임시 파일]
+build/
+bin/
+obj/
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
