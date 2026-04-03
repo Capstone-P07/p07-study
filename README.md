@@ -50,7 +50,7 @@ cd p07-study
 git checkout dev
 git pull origin dev
 
-# 2. 새로운 작업용 브랜치 생성 (작업 단위별로 새로 생성)
+# 2. 새로운 작업용 브랜치 생성 (작업 단위별로 새로 생성) -> 강의 듣고 실습(타이핑) 진행
 git checkout -b feature/본인이름
 
 # 3. 모든 변경사항을 장바구니에 담기
