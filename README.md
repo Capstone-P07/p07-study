@@ -74,10 +74,10 @@ git push origin feature/본인이름
 위의 내용을 확인했다면 아래 순서로 첫 PR을 날려보세요.
 
 ```bash
-1. `git checkout -b feature/initial-setup`
-2. `git add .`
-3. `git commit -m "nest: lec08 실습"
-4. `git push origin feature/initial-setup`
+1. git checkout -b feature/initial-setup
+2. git add .
+3. git commit -m "nest: lec08 실습"
+4. git push origin feature/initial-setup
 5. GitHub에서 PR 생성 후 Merge 하기
 ```
 
@@ -87,7 +87,3 @@ git push origin feature/본인이름
 - **Merge(병합):** 팀원 리뷰 후 `Merge pull request`를 누르면 `dev`에 반영됩니다.
 - **최신 상태 유지:** 작업 시작 전 항상 `git pull origin dev`를 하세요.
 - **Submodule 주의:** 개인 폴더 내부에 `.git` 폴더가 들어가지 않도록 하세요.
-
-```
-
-```
