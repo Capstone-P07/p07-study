@@ -6,7 +6,7 @@
 
 본 저장소는 팀원별 개인 학습 공간을 디렉터리로 구분하여 관리합니다.
 
-- `p07-study-kwon`: 현석 (NestJS, Next.js 학습)
+- `p07-study-kwon`: 현석
 - `p07-study-eumee`: 유미
 - `p07-study-lee`: 세준
 - `p07-study-yang`: 윤서
