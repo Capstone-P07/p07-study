@@ -8,7 +8,7 @@
 
 - `p07-study-kwon`: 현석
 - `p07-study-eumee`: 유미
-- `p07-study-lee`: 세준
+- `p07-study-lee`: 세빈
 - `p07-study-yang`: 윤서
 
 ## 🛠 주요 기술 스택
